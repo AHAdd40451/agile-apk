@@ -1,0 +1,7 @@
+{
+    "react-native": {
+        "messaging_ios_foreground_presentation_options": true,
+        "analytics_auto_collection_enabled": false,
+        "messaging_auto_init_enabled": false
+    }
+}
